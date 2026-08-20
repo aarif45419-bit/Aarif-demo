@@ -1,2 +1,3 @@
 # Aarif-demo
-This is my first git repsitory
+This is my first git repository.
+Author - Aarif Ali
